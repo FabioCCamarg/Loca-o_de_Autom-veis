@@ -80,3 +80,7 @@
 	join cliente on cliente.cpf = veiculo.cpf_cliente;
     
     select * from Todas_locacoes;
+
+-- Detalhes da View:
+
+![exer1](https://raw.githubusercontent.com/FabioCCamarg/Loca-o_de_Autom-veis/main/detalhes_View.png)
